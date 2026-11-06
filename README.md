@@ -73,7 +73,6 @@ s.close()
 ```
 ## OUPUT:
 <img width="941" height="597" alt="Screenshot 2026-11-02 141513" src="https://github.com/user-attachments/assets/fd0f11a4-d460-49c6-81db-9d40e2358b04" />
-
 <img width="1907" height="1020" alt="Screenshot 2026-11-02 141445" src="https://github.com/user-attachments/assets/457e74a3-ec02-4560-8d2b-c5c89db394ba" />
 
 ## RESULT
